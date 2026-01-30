@@ -1,2 +1,11 @@
+*.mp4
+
+temp.py
 extracted_video
 extracting_npy.log
+
+venv
+.venv/
+npy_data_16frames/
+
+*.mp4
